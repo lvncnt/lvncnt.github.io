@@ -1,23 +1,26 @@
 {
   "configVersion": 1,
-  "timestamp": 1581141984353,
+  "timestamp": 1593216668797,
   "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.b580f2711b17055d0ff4.js",
-        "/main-es5.b580f2711b17055d0ff4.js",
-        "/polyfills-es2015.a4c14904e701f485c031.js",
-        "/polyfills-es5.542b463ca19543efd4a2.js",
-        "/runtime-es2015.0811dcefd377500b5b1a.js",
-        "/runtime-es5.0811dcefd377500b5b1a.js",
-        "/scripts.b30b33a86dd722a0d5aa.js",
-        "/styles.6a204d1b01c329921be4.css"
+        "/main-es2015.c4206ea07946b6faed4b.js",
+        "/main-es5.c4206ea07946b6faed4b.js",
+        "/polyfills-es2015.df8323aeddcbbfbd231a.js",
+        "/polyfills-es5.fae2b9be38382fb6229d.js",
+        "/runtime-es2015.409e6590615fb48d139f.js",
+        "/runtime-es5.409e6590615fb48d139f.js",
+        "/scripts.66256ad97741a06d8be2.js",
+        "/styles.44207429682aa81f76ad.css"
       ],
       "patterns": []
     },
@@ -25,6 +28,9 @@
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
       "urls": [
         "/assets/appstore-badge.svg",
         "/assets/google-play-badge.webp",
@@ -61,17 +67,17 @@
         "/assets/portfolio/web-02t.jpg",
         "/assets/portfolio/web-03f.jpg",
         "/assets/portfolio/web-03t.jpg",
-        "/font-mfizz.19778cf9c33d0c98076a.ttf",
-        "/font-mfizz.4a873e5f62afe3c8a79b.svg",
-        "/font-mfizz.4d03e427f13a893d5e9c.eot",
-        "/font-mfizz.64c7cf6cb98b1297cd52.woff",
-        "/fontawesome-webfont.674f50d287a8c48dc19b.eot",
-        "/fontawesome-webfont.912ec66d7572ff821749.svg",
-        "/fontawesome-webfont.af7ae505a9eed503f8b8.woff2",
-        "/fontawesome-webfont.b06871f281fee6b241d6.ttf",
-        "/fontawesome-webfont.fee66e712a8a08eef580.woff",
-        "/header-bg.6a27d83f838c604dce1a.webp",
-        "/map-image.961393ce4223bbea5e11.webp"
+        "/font-mfizz.2b60f84113834d922e4c.svg",
+        "/font-mfizz.3008b38aeef05ffb840d.ttf",
+        "/font-mfizz.6eb90178454adef6aa02.woff",
+        "/font-mfizz.ea81304f096b7a33db3d.eot",
+        "/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+        "/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+        "/fontawesome-webfont.8b43027f47b20503057d.eot",
+        "/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+        "/fontawesome-webfont.f691f37e57f04c152e23.woff",
+        "/header-bg.8c7493b84bfe8259a1a1.webp",
+        "/map-image.e8f5bd899aa0149c2947.webp"
       ],
       "patterns": []
     }
@@ -114,26 +120,26 @@
     "/assets/portfolio/web-03f.jpg": "f640e17e530d0047d3176b0f02e76faad847b8c1",
     "/assets/portfolio/web-03t.jpg": "3d0593e17df43007aa3de95fdb1338fd032dbc6c",
     "/favicon.ico": "20235b6f4c003fb637bf37fba3a6c8456064e296",
-    "/font-mfizz.19778cf9c33d0c98076a.ttf": "cb486b11c09586960fc029835f2c8a6bcf9bc955",
-    "/font-mfizz.4a873e5f62afe3c8a79b.svg": "5a0782e45234e684926ddadfb6407171b123c586",
-    "/font-mfizz.4d03e427f13a893d5e9c.eot": "559b605a43fc74c2e0fe17268715a931932298ad",
-    "/font-mfizz.64c7cf6cb98b1297cd52.woff": "0d90d652bb7c89b2f65b2a2b031e8609e14d9d6d",
-    "/fontawesome-webfont.674f50d287a8c48dc19b.eot": "d980c2ce873dc43af460d4d572d441304499f400",
-    "/fontawesome-webfont.912ec66d7572ff821749.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
-    "/fontawesome-webfont.af7ae505a9eed503f8b8.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
-    "/fontawesome-webfont.b06871f281fee6b241d6.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
-    "/fontawesome-webfont.fee66e712a8a08eef580.woff": "28b782240b3e76db824e12c02754a9731a167527",
-    "/header-bg.6a27d83f838c604dce1a.webp": "40481cafe15f4406a735f52b5c57c432cd55ba46",
-    "/index.html": "810bae1a51be71562584e1fddf64a6c5f68f51b2",
-    "/main-es2015.b580f2711b17055d0ff4.js": "5ca1e13f008184e7b81d644a11bc597e10235eae",
-    "/main-es5.b580f2711b17055d0ff4.js": "bc161be6e84b63db265e2beb7894af21c8089c6a",
-    "/map-image.961393ce4223bbea5e11.webp": "32d86846ea94716bb377759423821f110a025fb6",
-    "/polyfills-es2015.a4c14904e701f485c031.js": "ff1fa5550f3f278bab911bb9aef184110a7e241e",
-    "/polyfills-es5.542b463ca19543efd4a2.js": "336b552488f1f7a44dabaa58fcc62ef42bfe44e5",
-    "/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/scripts.b30b33a86dd722a0d5aa.js": "be30a0ba14799cca21593dd3cc414718fd3af5ed",
-    "/styles.6a204d1b01c329921be4.css": "b9e42571bac9b25aee8a5f635265ef2f1cb9cf73"
+    "/font-mfizz.2b60f84113834d922e4c.svg": "5a0782e45234e684926ddadfb6407171b123c586",
+    "/font-mfizz.3008b38aeef05ffb840d.ttf": "cb486b11c09586960fc029835f2c8a6bcf9bc955",
+    "/font-mfizz.6eb90178454adef6aa02.woff": "0d90d652bb7c89b2f65b2a2b031e8609e14d9d6d",
+    "/font-mfizz.ea81304f096b7a33db3d.eot": "559b605a43fc74c2e0fe17268715a931932298ad",
+    "/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "/fontawesome-webfont.20fd1704ea223900efa9.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
+    "/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "/header-bg.8c7493b84bfe8259a1a1.webp": "40481cafe15f4406a735f52b5c57c432cd55ba46",
+    "/index.html": "b2eb58b9c2b64a5c16c3aebc4b9e000f0414fadd",
+    "/main-es2015.c4206ea07946b6faed4b.js": "4d15b94479a5f593a418daa7327e80f0f9f709da",
+    "/main-es5.c4206ea07946b6faed4b.js": "3988c95f7fd112514191d1078e29eebf55c65862",
+    "/map-image.e8f5bd899aa0149c2947.webp": "32d86846ea94716bb377759423821f110a025fb6",
+    "/polyfills-es2015.df8323aeddcbbfbd231a.js": "6507293ca558e893f52e0479c4da076b5e6cf152",
+    "/polyfills-es5.fae2b9be38382fb6229d.js": "7e2dcce3e205112b500de3aaadf993988d44bb85",
+    "/runtime-es2015.409e6590615fb48d139f.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.409e6590615fb48d139f.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/scripts.66256ad97741a06d8be2.js": "558337d0d42672708b6bed98c3201a1f0599ed64",
+    "/styles.44207429682aa81f76ad.css": "6176bc7a0c81624cde3f2b1d9c392b18705a2d98"
   },
   "navigationUrls": [
     {
