@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1618115983224,
+  "timestamp": 1640745650454,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,14 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.cd074e719b17bbe21b6e.js",
-        "/main-es5.cd074e719b17bbe21b6e.js",
-        "/polyfills-es2015.84a3414afbf5715cafa9.js",
-        "/polyfills-es5.be6b34f4ef8aecefbd1a.js",
-        "/runtime-es2015.a4dadbc03350107420a4.js",
-        "/runtime-es5.a4dadbc03350107420a4.js",
-        "/scripts.69a4a1f200394b490b9a.js",
-        "/styles.44a224c22fd69ca5c6fa.css"
+        "/main.15dab151ee30e4a8.js",
+        "/polyfills.b4b1201745d37841.js",
+        "/runtime.b6fe7e9b670ab11f.js",
+        "/scripts.fcd3c08b6fd467aa.js",
+        "/styles.130f23b79cd88eab.css"
       ],
       "patterns": []
     },
@@ -67,12 +64,12 @@
         "/assets/portfolio/web-02t.jpg",
         "/assets/portfolio/web-03f.jpg",
         "/assets/portfolio/web-03t.jpg",
-        "/font-mfizz.2b60f84113834d922e4c.svg",
-        "/font-mfizz.3008b38aeef05ffb840d.ttf",
-        "/font-mfizz.6eb90178454adef6aa02.woff",
-        "/font-mfizz.ea81304f096b7a33db3d.eot",
-        "/header-bg.8c7493b84bfe8259a1a1.webp",
-        "/map-image.e8f5bd899aa0149c2947.webp"
+        "/font-mfizz.37aae3a7f4b5930a.ttf",
+        "/font-mfizz.96d843129e70260b.svg",
+        "/font-mfizz.a10965a4c107e8d0.eot",
+        "/font-mfizz.e51c6411a0d4769f.woff",
+        "/header-bg.0a74fe0a0f1770bf.webp",
+        "/map-image.f446e1f704211905.webp"
       ],
       "patterns": []
     }
@@ -115,21 +112,18 @@
     "/assets/portfolio/web-03f.jpg": "f640e17e530d0047d3176b0f02e76faad847b8c1",
     "/assets/portfolio/web-03t.jpg": "3d0593e17df43007aa3de95fdb1338fd032dbc6c",
     "/favicon.ico": "20235b6f4c003fb637bf37fba3a6c8456064e296",
-    "/font-mfizz.2b60f84113834d922e4c.svg": "5a0782e45234e684926ddadfb6407171b123c586",
-    "/font-mfizz.3008b38aeef05ffb840d.ttf": "cb486b11c09586960fc029835f2c8a6bcf9bc955",
-    "/font-mfizz.6eb90178454adef6aa02.woff": "0d90d652bb7c89b2f65b2a2b031e8609e14d9d6d",
-    "/font-mfizz.ea81304f096b7a33db3d.eot": "559b605a43fc74c2e0fe17268715a931932298ad",
-    "/header-bg.8c7493b84bfe8259a1a1.webp": "40481cafe15f4406a735f52b5c57c432cd55ba46",
-    "/index.html": "83da66688cf99a6060c2ebc618504010bec8f159",
-    "/main-es2015.cd074e719b17bbe21b6e.js": "784ae075aaa361250f63d06b8475cd6d89cc7370",
-    "/main-es5.cd074e719b17bbe21b6e.js": "a3f1184a73d6c91f8b6f376e5b251ab81fd81752",
-    "/map-image.e8f5bd899aa0149c2947.webp": "32d86846ea94716bb377759423821f110a025fb6",
-    "/polyfills-es2015.84a3414afbf5715cafa9.js": "457632200265fda649d505d4273093154fdc8bbc",
-    "/polyfills-es5.be6b34f4ef8aecefbd1a.js": "5336e5fa056e93dc77eef2666fa8526d91d0c49f",
-    "/runtime-es2015.a4dadbc03350107420a4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/runtime-es5.a4dadbc03350107420a4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/scripts.69a4a1f200394b490b9a.js": "117c88528635b27d06d1cce6deb3aa5c7bc2fe98",
-    "/styles.44a224c22fd69ca5c6fa.css": "33a0adce5a8a623f83e2ceb2952e6534fbe0e56b"
+    "/font-mfizz.37aae3a7f4b5930a.ttf": "cb486b11c09586960fc029835f2c8a6bcf9bc955",
+    "/font-mfizz.96d843129e70260b.svg": "5a0782e45234e684926ddadfb6407171b123c586",
+    "/font-mfizz.a10965a4c107e8d0.eot": "559b605a43fc74c2e0fe17268715a931932298ad",
+    "/font-mfizz.e51c6411a0d4769f.woff": "0d90d652bb7c89b2f65b2a2b031e8609e14d9d6d",
+    "/header-bg.0a74fe0a0f1770bf.webp": "40481cafe15f4406a735f52b5c57c432cd55ba46",
+    "/index.html": "f37317c001839e2a8a8ebdc53f2a3239d2d81014",
+    "/main.15dab151ee30e4a8.js": "f19db4595a33128b6e462f33d0cd205cc11b560f",
+    "/map-image.f446e1f704211905.webp": "32d86846ea94716bb377759423821f110a025fb6",
+    "/polyfills.b4b1201745d37841.js": "0e97559692f9812419eeb1053c3ec87ade23d2b6",
+    "/runtime.b6fe7e9b670ab11f.js": "0628853bb0d140fe01b6bb664250fd569cb2664c",
+    "/scripts.fcd3c08b6fd467aa.js": "2602e9f2c093af2824b07f69a05787b0a177a941",
+    "/styles.130f23b79cd88eab.css": "739465cfd6270ae89ed4ba89ecad00c6e217611d"
   },
   "navigationUrls": [
     {
