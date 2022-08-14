@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1640745650454,
+  "timestamp": 1660453707517,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.15dab151ee30e4a8.js",
-        "/polyfills.b4b1201745d37841.js",
-        "/runtime.b6fe7e9b670ab11f.js",
-        "/scripts.fcd3c08b6fd467aa.js",
-        "/styles.130f23b79cd88eab.css"
+        "/main.2cea6123e724ce47.js",
+        "/polyfills.6788a33142d80938.js",
+        "/runtime.af8297105ddd0f19.js",
+        "/scripts.8708043d2b509155.js",
+        "/styles.e5e84a6cfe63cac6.css"
       ],
       "patterns": []
     },
@@ -59,7 +59,6 @@
         "/assets/portfolio/mobile-03t.jpg",
         "/assets/portfolio/web-01f.jpg",
         "/assets/portfolio/web-01t.jpg",
-        "/assets/portfolio/web-01t.png",
         "/assets/portfolio/web-02f.jpg",
         "/assets/portfolio/web-02t.jpg",
         "/assets/portfolio/web-03f.jpg",
@@ -106,7 +105,6 @@
     "/assets/portfolio/mobile-03t.jpg": "6f3927ed81b2a23728e44ad98a48a8a66b284b3b",
     "/assets/portfolio/web-01f.jpg": "27b6d9584bc14dec8a9e41c4ba97460781b6ae23",
     "/assets/portfolio/web-01t.jpg": "d9366b930053270067f47c09d1f2e14f7369b0a6",
-    "/assets/portfolio/web-01t.png": "dbdd21dea9449f531ecbaf53dc02255f2fd14b9d",
     "/assets/portfolio/web-02f.jpg": "75d722254a6d40e491db86a76af3c52b17de93c3",
     "/assets/portfolio/web-02t.jpg": "8b17ebe353ba77f4b21da2935ef6438f5dcee9c1",
     "/assets/portfolio/web-03f.jpg": "f640e17e530d0047d3176b0f02e76faad847b8c1",
@@ -117,13 +115,13 @@
     "/font-mfizz.a10965a4c107e8d0.eot": "559b605a43fc74c2e0fe17268715a931932298ad",
     "/font-mfizz.e51c6411a0d4769f.woff": "0d90d652bb7c89b2f65b2a2b031e8609e14d9d6d",
     "/header-bg.0a74fe0a0f1770bf.webp": "40481cafe15f4406a735f52b5c57c432cd55ba46",
-    "/index.html": "f37317c001839e2a8a8ebdc53f2a3239d2d81014",
-    "/main.15dab151ee30e4a8.js": "f19db4595a33128b6e462f33d0cd205cc11b560f",
+    "/index.html": "bdf6fe4527dc412b2c602bcdda56b58626320d11",
+    "/main.2cea6123e724ce47.js": "b9ba7d6f23090e2f18c1a0a5999932627561bd1a",
     "/map-image.f446e1f704211905.webp": "32d86846ea94716bb377759423821f110a025fb6",
-    "/polyfills.b4b1201745d37841.js": "0e97559692f9812419eeb1053c3ec87ade23d2b6",
-    "/runtime.b6fe7e9b670ab11f.js": "0628853bb0d140fe01b6bb664250fd569cb2664c",
-    "/scripts.fcd3c08b6fd467aa.js": "2602e9f2c093af2824b07f69a05787b0a177a941",
-    "/styles.130f23b79cd88eab.css": "739465cfd6270ae89ed4ba89ecad00c6e217611d"
+    "/polyfills.6788a33142d80938.js": "a58e0bc8a73de73ab64d27e873f04b2fd17c9222",
+    "/runtime.af8297105ddd0f19.js": "8b2f30cfe96bf19498e508a7a8cce5605d04905f",
+    "/scripts.8708043d2b509155.js": "8c9a9cb21f4a72612ef24eeb450bbe279c2f8d17",
+    "/styles.e5e84a6cfe63cac6.css": "e7d7f38a0c3c3d2e651d614c247e40da27d0a3d6"
   },
   "navigationUrls": [
     {
