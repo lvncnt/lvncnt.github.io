@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1669705675794,
+  "timestamp": 1669707100646,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -41,12 +41,6 @@
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
         "/assets/map-image.webp",
-        "/assets/original/desk-01f.jpg",
-        "/assets/original/desk-02f.jpg",
-        "/assets/original/header-bg.webp",
-        "/assets/original/map-image.webp",
-        "/assets/original/mobile-02f.jpg",
-        "/assets/original/mobile-02t.jpg",
         "/font-mfizz.37aae3a7f4b5930a.ttf",
         "/font-mfizz.96d843129e70260b.svg",
         "/font-mfizz.a10965a4c107e8d0.eot",
@@ -71,12 +65,6 @@
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/map-image.webp": "fd7786840b2f7f4d4b6baca11d322ae5fa640736",
-    "/assets/original/desk-01f.jpg": "e49664e926aa82af29647dbafa8ad9b541ac736d",
-    "/assets/original/desk-02f.jpg": "195447bcaf218e70ec065c982ffdd5b4ca87c9fe",
-    "/assets/original/header-bg.webp": "40481cafe15f4406a735f52b5c57c432cd55ba46",
-    "/assets/original/map-image.webp": "32d86846ea94716bb377759423821f110a025fb6",
-    "/assets/original/mobile-02f.jpg": "739c18b83fde4f4c8b194323cb14b20ba1a19173",
-    "/assets/original/mobile-02t.jpg": "4b1390cbccd6d892a5ed3bdb504189029458f174",
     "/favicon.ico": "20235b6f4c003fb637bf37fba3a6c8456064e296",
     "/font-mfizz.37aae3a7f4b5930a.ttf": "cb486b11c09586960fc029835f2c8a6bcf9bc955",
     "/font-mfizz.96d843129e70260b.svg": "5a0782e45234e684926ddadfb6407171b123c586",
