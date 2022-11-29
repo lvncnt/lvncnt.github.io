@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1669433646262,
+  "timestamp": 1669705675794,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.b62e068aef2247e6.js",
+        "/main.fbf292edfd3a8bb6.js",
         "/polyfills.3d288d19cd63c7ee.js",
         "/runtime.af8297105ddd0f19.js",
         "/scripts.e56aeaaa3264aee1.js",
-        "/styles.942b5934b404564c.css"
+        "/styles.a8313ae812d41616.css"
       ],
       "patterns": []
     },
@@ -41,12 +41,18 @@
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
         "/assets/map-image.webp",
+        "/assets/original/desk-01f.jpg",
+        "/assets/original/desk-02f.jpg",
+        "/assets/original/header-bg.webp",
+        "/assets/original/map-image.webp",
+        "/assets/original/mobile-02f.jpg",
+        "/assets/original/mobile-02t.jpg",
         "/font-mfizz.37aae3a7f4b5930a.ttf",
         "/font-mfizz.96d843129e70260b.svg",
         "/font-mfizz.a10965a4c107e8d0.eot",
         "/font-mfizz.e51c6411a0d4769f.woff",
-        "/header-bg.0a74fe0a0f1770bf.webp",
-        "/map-image.f446e1f704211905.webp"
+        "/header-bg.104f7b3b91e962a7.webp",
+        "/map-image.f6e537ec8453d542.webp"
       ],
       "patterns": []
     }
@@ -55,7 +61,7 @@
   "hashTable": {
     "/assets/appstore-badge.svg": "5eb1a238a24f928783bfdf3e8b093e1b38aebe88",
     "/assets/google-play-badge.webp": "4891a3af0a6d62ce58ad3116fb013cb8c728cde2",
-    "/assets/header-bg.webp": "40481cafe15f4406a735f52b5c57c432cd55ba46",
+    "/assets/header-bg.webp": "da5aa5ac73bf33fe8586cfda81d88ee20ed67ba9",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -64,20 +70,26 @@
     "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/assets/map-image.webp": "32d86846ea94716bb377759423821f110a025fb6",
+    "/assets/map-image.webp": "fd7786840b2f7f4d4b6baca11d322ae5fa640736",
+    "/assets/original/desk-01f.jpg": "e49664e926aa82af29647dbafa8ad9b541ac736d",
+    "/assets/original/desk-02f.jpg": "195447bcaf218e70ec065c982ffdd5b4ca87c9fe",
+    "/assets/original/header-bg.webp": "40481cafe15f4406a735f52b5c57c432cd55ba46",
+    "/assets/original/map-image.webp": "32d86846ea94716bb377759423821f110a025fb6",
+    "/assets/original/mobile-02f.jpg": "739c18b83fde4f4c8b194323cb14b20ba1a19173",
+    "/assets/original/mobile-02t.jpg": "4b1390cbccd6d892a5ed3bdb504189029458f174",
     "/favicon.ico": "20235b6f4c003fb637bf37fba3a6c8456064e296",
     "/font-mfizz.37aae3a7f4b5930a.ttf": "cb486b11c09586960fc029835f2c8a6bcf9bc955",
     "/font-mfizz.96d843129e70260b.svg": "5a0782e45234e684926ddadfb6407171b123c586",
     "/font-mfizz.a10965a4c107e8d0.eot": "559b605a43fc74c2e0fe17268715a931932298ad",
     "/font-mfizz.e51c6411a0d4769f.woff": "0d90d652bb7c89b2f65b2a2b031e8609e14d9d6d",
-    "/header-bg.0a74fe0a0f1770bf.webp": "40481cafe15f4406a735f52b5c57c432cd55ba46",
-    "/index.html": "33557263c97a536ec05f3396fe5128d0f73016ba",
-    "/main.b62e068aef2247e6.js": "2b2012293b4c5c818b70cad27a425b93b608b126",
-    "/map-image.f446e1f704211905.webp": "32d86846ea94716bb377759423821f110a025fb6",
+    "/header-bg.104f7b3b91e962a7.webp": "da5aa5ac73bf33fe8586cfda81d88ee20ed67ba9",
+    "/index.html": "042fe8ff2435e85d0fd7f35e787ce3320520f080",
+    "/main.fbf292edfd3a8bb6.js": "8991c653e956d525a95c8fb196cbd92f8529e50e",
+    "/map-image.f6e537ec8453d542.webp": "fd7786840b2f7f4d4b6baca11d322ae5fa640736",
     "/polyfills.3d288d19cd63c7ee.js": "42dd9a2a77e189c610dbb818826761bf092c80f1",
     "/runtime.af8297105ddd0f19.js": "8b2f30cfe96bf19498e508a7a8cce5605d04905f",
     "/scripts.e56aeaaa3264aee1.js": "851d5b34326506886921c8ce18629e283ab5108b",
-    "/styles.942b5934b404564c.css": "7f72e9760a93dfbc4b11332296d467a961a69e86"
+    "/styles.a8313ae812d41616.css": "f574de53e7384601549b40cd447eac0dec71eb26"
   },
   "navigationUrls": [
     {
